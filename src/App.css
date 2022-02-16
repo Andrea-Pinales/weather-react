@@ -8,3 +8,14 @@ body {
   text-align: center;
   max-width: 1000px;
 }
+
+.App a {
+  font-size: 14px;
+  font-weight: 300;
+  text-decoration: none;
+  color: #007bff;
+}
+
+.App span {
+  font-size: 14px;
+}

@@ -10,6 +10,14 @@ function App() {
     <div className="App">
       <Search />
       <Current />
+      <a
+        href="https://github.com/Andrea-Pinales/weather-react"
+        target="_blank"
+        rel="noreferrer"
+      >
+        Open-source code
+      </a>{" "}
+      <span>by Andrea Pinales</span>
     </div>
   );
 }
